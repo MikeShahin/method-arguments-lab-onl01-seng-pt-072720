@@ -4,5 +4,5 @@ def introduction(name)
 end
 
 def introduction_with_language(language, name)
-  puts name + ',' + language
+  puts "Hi, my name is #{name}," + " and I am learning #{language}."
 end
